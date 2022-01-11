@@ -18,13 +18,15 @@ When I'm not coding, you can find me:
 </div>
 
 <br/>
+<div>Featured Work:</div>
 <ul>
   <li>🥕 Leftovers - A mobile app to motivate users and reduce food waste by targeted ingredients for recipe ideas and donation incentives</li>
   <div>Demo Video:</div>
-</ul>
-<div>
+  <div>
   <a href="https://bit.ly/3stYjQk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
+</ul>
+
   
   
 <br/>
