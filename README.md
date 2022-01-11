@@ -6,6 +6,7 @@
 - 🎯 I strive to provide innovative software solutions to promote innovative, user-friendly tech. to society
 - 🍣 Will code for free food
 
+<br/>
 When I'm not coding, you can find me: 
 - 🕹️ Gaming
 - 🏋🏽‍♂️ Exercising
