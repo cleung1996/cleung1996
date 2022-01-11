@@ -16,6 +16,12 @@ When I'm not coding, you can find me:
 <div>
   <a href="https://www.charlesleung.net"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
+
+<br/>
+Featured work:
+<div>
+  <a href="https://www.charlesleung.net"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
   
   
 <br/>
