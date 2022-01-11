@@ -18,12 +18,11 @@ When I'm not coding, you can find me:
     <a href="https://www.charlesleung.net"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   </div>
 </div>
-
-
-
+<br/>
 Contact me:
 <div>
   <a href="https://www.linkedin.com/in/cleung96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto: charlesfb1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <!---
