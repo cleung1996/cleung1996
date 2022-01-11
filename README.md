@@ -6,19 +6,17 @@
 - 🎯 I strive to provide innovative software solutions to promote innovative, user-friendly tech. to society
 - 🍣 Will code for free food
 
-<div>
 When I'm not coding, you can find me: 
 - 🕹️ Gaming
 - 🏋🏽‍♂️ Exercising
 - 🍜 Trying new food places
-</div>
 
-<div>
   <div> Check out my portfolio here: </div>
   <div>
     <a href="https://www.charlesleung.net"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   </div>
-</div>
+  
+  
 <br/>
 Contact me:
 <div>
