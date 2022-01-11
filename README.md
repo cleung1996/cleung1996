@@ -11,7 +11,7 @@ When I'm not coding, you can find me:
 - 🏋🏽‍♂️ Exercising
 - 🍜 Trying new food places
 
-
+<br/>
 <div>
   <h4> Check out my portfolio here! </h4>
   <div>
