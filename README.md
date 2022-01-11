@@ -11,8 +11,10 @@ When I'm not coding, you can find me:
 - 🏋🏽‍♂️ Exercising
 - 🍜 Trying new food places
 
-Contact me: 
-<a href="https://www.linkedin.com/in/cleung96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Contact me:
+<div>
+  <a href="https://www.linkedin.com/in/cleung96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 <!---
 cleung1996/cleung1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
