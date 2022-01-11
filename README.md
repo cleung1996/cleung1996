@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm @charles!</h1>
-<h2>Full Stack Software Engineer from Vancouver, Canada working in San Francisco, California</h2>
+<h3>Full Stack Software Engineer from Vancouver, Canada working in San Francisco, California</h3>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
