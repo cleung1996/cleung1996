@@ -11,10 +11,14 @@ When I'm not coding, you can find me:
 - 🏋🏽‍♂️ Exercising
 - 🍜 Trying new food places
 
+
+
 Check out my portfolio here!
 <div>
   <a href="https://www.charlesleung.net"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
+
+
 
 Contact me:
 <div>
