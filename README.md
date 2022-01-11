@@ -19,7 +19,7 @@ When I'm not coding, you can find me:
 
 <br/>
 Featured work:
-- 🥕 Leftovers - A mobile app to motivate users and reduce food waste by targeted ingredients for recipe ideas and donation incentives. Demo video below:
+<ul> 🥕 Leftovers - A mobile app to motivate users and reduce food waste by targeted ingredients for recipe ideas and donation incentives. Demo video below: </ul>
 <div>
   <a href="https://bit.ly/3stYjQk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
